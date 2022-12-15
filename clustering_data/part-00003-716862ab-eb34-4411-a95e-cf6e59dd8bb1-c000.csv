@@ -1,0 +1,5 @@
+code	product_name	energy_100g	proteins_100g	fat_100g	carbohydrates_100g	sugars_100g	energy-kcal_100g	saturated-fat_100g	salt_100g	sodium_100g	fiber_100g	fruits-vegetables-nuts-estimate-from-ingredients_100g	nutrition-score-fr_100g	prediction
+8.3550157E9		1536.0	6.67	10.0	70.0	36.67	367.0	6.67	0.3325	0.133	3.3	0.0	16.0	6
+8.36186E9		280.0	0.5	0.0	16.0	14.0	67.0	0.0	0.02	0.008	0.0	0.0	20.0	2
+84260.0		669.0	5.1	0.7	32.5	1.5	160.0	0.1	0.01	0.004	1.4	0.0	-3.0	2
+84512.0		138.0	0.0	0.0	10.0	3.33	33.0	0.0	0.7925	0.317	3.3	9.090909	0.0	2
